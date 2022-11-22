@@ -1,0 +1,11 @@
+{
+  "firstname":"Liana",
+  "lastname":"Kobiashvili",
+  "age":30,
+  "pets":["cat", "dog"],
+  "friends": {
+    "number":2,
+    "girlsname": "Gala",
+    "boysname": "Danil"
+  }
+}
